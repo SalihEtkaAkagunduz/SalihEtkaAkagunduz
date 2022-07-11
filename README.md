@@ -1,19 +1,19 @@
-MERHABA;
+HI;
 
 
 
 
 🎗️ Salih Etka Akagündüz🎗️
 
-🏫 Bursa Anadolu Lisesinde Okuyorum🏫
+🏫 I'm Studying at Bursa Anadolu High School🏫
 
-🚩 Bursa/Yıldırım da oturuyorum🚩
+🚩 I live in Bursa/Yıldırım🚩
 
-👨‍💻 Python dilini orta seviyede biliyorum👨‍💻 
+👨‍💻 I know Python at intermediate level.👨‍💻 
 
-👨‍🏫 C# Dİlini Öğreniyorum👨‍🏫
+👨‍🏫 I'm Learning C# Language👨‍🏫
 
-🧬 Henüz 15 yaşındayım🧬
+🧬 I'm only 15 years old🧬
 
 
 
