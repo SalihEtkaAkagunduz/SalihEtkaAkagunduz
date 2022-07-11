@@ -2,6 +2,7 @@ MERHABA;
 
 
 
+
 🎗️ Salih Etka Akagündüz🎗️
 
 🏫 Bursa Anadolu Lisesinde Okuyorum🏫
@@ -14,5 +15,5 @@ MERHABA;
 
 🧬 Henüz 15 yaşındayım🧬
 
-https://dotnet.microsoft.com/
+
 
