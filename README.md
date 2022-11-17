@@ -11,9 +11,11 @@ HI;
 
 👨‍💻 I know Python at intermediate level.👨‍💻 
 
-👨‍🏫 I'm Learning C# Language👨‍🏫
+👨‍🏫 I know the c# language at a good level, html,css, javascript, .net and SQL at a sufficient level👨‍🏫
 
 🧬 I'm only 15 years old🧬
+
+@import url('http://salihetkaakagunduz.epizy.com/index.html');
 
 
 
