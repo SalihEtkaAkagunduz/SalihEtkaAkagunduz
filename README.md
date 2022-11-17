@@ -15,7 +15,6 @@ HI;
 
 🧬 I'm only 15 years old🧬
 
-@import url('http://salihetkaakagunduz.epizy.com/index.html');
+📧 salihetkaakagunduz@gmail.com📧
 
-
-
+🔗 http://salihetkaakagunduz.epizy.com/index.html 🔗
