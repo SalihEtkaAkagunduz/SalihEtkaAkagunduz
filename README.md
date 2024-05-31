@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎗️ Salih Etka Akagündüz🎗️<br><br>🏫 I'm Studying at Bursa Anadolu High School🏫<br><br>🚩 I live in Bursa/Yıldırım🚩<br><br>👨‍💻 I know Python at intermediate level.👨‍💻<br><br>👨‍🏫 I know the c# language at a good level, html,css, javascript, .net and SQL at a sufficient level👨‍🏫<br><br>🧬 I'm only 15 years old🧬<br><br>📧 salihetkaakagunduz@gmail.com📧<br><br>🔗 http://salihetkaakagunduz.epizy.com/index.html 🔗
+🎗️ Salih Etka Akagündüz🎗️<br><br>🏫 I'm Studying at Bursa Anadolu High School🏫<br><br>🚩 I live in Bursa/Yıldırım🚩<br><br>👨‍💻 I know Python at intermediate level.👨‍💻<br><br>👨‍🏫 I know the c# language at a good level, html,css, javascript, .net and SQL at a sufficient level👨‍🏫<br><br>🧬 I'm only 17 years old🧬<br><br>📧 salihetkaakagunduz@gmail.com📧<br><br>🔗 http://salihetkaakagunduz.epizy.com/index.html 🔗
 
 
 ## 🌐 Socials:
